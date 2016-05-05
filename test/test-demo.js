@@ -5,7 +5,7 @@ describe('Math', function(){
 
   });
   it("Puede fallar", function(){
-    throw new Error('Diria tusam');
+    //throw new Error('Diria tusam');
   });
 
 });

@@ -17,7 +17,8 @@ angular
     'ngSanitize',
     'ngTouch',
     'adf',
-    'adf.structures.base'
+    'adf.structures.base',
+		'adf.widget.clock'
   ])
   .config(function ($routeProvider, dashboardProvider) {
 
